@@ -1,4 +1,6 @@
-// Vars
+// scrpt suggestion from class, left here for reference
+
+
 var startButtonEl = document.querySelector("#start-btn");
 var currentQuestionIndex = 0;
 
