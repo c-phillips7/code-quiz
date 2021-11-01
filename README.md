@@ -11,10 +11,12 @@ As a result, this is incomplete, and will be resubmmitted once I get help on fig
 Screenshot of Deployed Page:
  
 ## Links 
-github repo:
 
+github repo:
+https://github.com/c-phillips7/code-quiz
 
 live page:
+https://c-phillips7.github.io/code-quiz/
 
 
 ## Credits
