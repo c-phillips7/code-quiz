@@ -9,6 +9,8 @@ I struggled to get the highscore and initials system to work. I had planned to u
 As a result, this is incomplete, and will be resubmmitted once I get help on figuring out how to use the DOM and JSON.
 
 Screenshot of Deployed Page:
+
+![Screenshot](https://github.com/c-phillips7/code-quiz/blob/master/assets/screenshot.png?raw=true)
  
 ## Links 
 
